@@ -11,6 +11,7 @@ This is **NOT** a replacement for the original [System Overload](https://gameban
 # Installation
 To play this mod, you'll need the following:
 * The latest Codename Engine build
+* Port (through [Releases](https://github.com/PukaCyi/System-Overload/releases) or [Packages](https://github.com/PukaCyi?tab=packages&repo_name=System-Overload) - if available)
 
 ## How to do that
 Great! You're still dedicated to follow along - don't worry, you'll live, for this is easy!
@@ -21,8 +22,8 @@ Great! You're still dedicated to follow along - don't worry, you'll live, for th
 * Create a GitHub account:
   - You'll need this to download artifacts from Actions, or you can use [Nightly](https://nightly.link/) if you prefer.
 
-* Get the Codename Engine:
-  - Visit the Codename Engine repo and head to the Actions page.
+* Get Codename Engine:
+  - Visit the Codename Engine repo and head to the [Actions](https://github.com/FNF-CNE-Devs/CodenameEngine/actions) page.
 
 * Choose your build version:
   - Select your preferred platform (e.g., Windows, Linux, Mac). 
@@ -30,7 +31,7 @@ Great! You're still dedicated to follow along - don't worry, you'll live, for th
 * Find the correct version:
   - Look for the green check mark next to the first three boxes. Check the version text to make sure you're looking at the right build
 
-* Download the engine:
+* Download the build:
   - Scroll to "Artifacts" and select "Codename Engine" or "Update-(Version)" if you're updating. Download the zip file.
   - If you're updating your Codename Engine build, please note that things may break if your build is old. You can update the engine just by unzipping the Update-(Version) file and replacing the old build.
 
