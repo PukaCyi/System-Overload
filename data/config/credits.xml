@@ -1,0 +1,26 @@
+<!DOCTYPE codename-mod-credits>
+<!-- Output: Title: "Funny Person" content: [pfp] BANAMI -->
+<menu name="funny person" desc="System Overload port">
+    <github user="PukaCyi" customName="Banami" desc="Creator of System Overload - CNE port" size="100" portrait="false"/>
+</menu>
+
+<!-- Output: Title: "System Overload" content: [pfp] blah blah x(idk) -->
+<menu name="System Overload" desc="THE TEAM">
+    <credit name="AnthemOverload" desc="Owner/Director/Story Writer/VA of Eteled/Composer/Concept Artist/Charter" icon="anthem" url="https://twitter.com/i/user/1111782172233551873" portrait="false"/>
+    <credit name="MRVICH" desc="Co owner, Co director, Helped with the main menu music, VA of Austin (Content coming soon), story writer." icon="mrvich" url="https://youtube.com/channel/UCeuEmpeRjfHhehWKhjnYllA" portrait="false"/>
+    <credit name="Empry.Lauv" desc="Lead artist of System Overload, came up with the design for eteled, austin miifrend etc. Sprite artist for eteled, Austin etc (content coming soon), cutscene artist" icon="empry" url="https://twitter.com/i/user/1387824146466308096" portrait="false"/>
+    <credit name="BlueToonsYT" desc="Sprite artist for miifrend, charter, musician, coder, concept artist" icon="blue" portrait="false" url="https://twitter.com/i/user/1378439506702008333"/>
+    <credit name="Nebby" desc="Coder, fixed all the issues caused by BlueToonsYT by accident" icon="nebbyicon" url="https://twitter.com/Nebby___" portrait="false"/>
+    <credit name="Project anzo" desc="Edited and did sound design for cutscenes, coder" icon="anzo" portrait="false" url="https://youtube.com/channel/UC3ok6vpLgCqNJ4cpV0gEm6Q"/>
+    <credit name="Donut" desc="Story writer, helped come up with poses for eteled and austin, wrote death lines for characters" icon="Donut_Icon" portrait="false" url="https://twitter.com/i/user/1588511124114251776"/>
+    <credit name="NeoDiamond" desc="Musician (content coming soon), VA (content coming soon), charter, story writer (content coming soon)" icon="neo" portrait="false"/>
+    <credit name="MicManVA" desc="VA (content coming soon)" icon="iconname" portrait="false"/>
+    <credit name="William Cellare" desc="Concept artist, sprite artist (content coming soon), made logo for System Overload" icon="w" portrait="false"/>
+    <credit name="Fluffterz-DLMt" desc="Artist, collaborated with Empry for week menu artwork" icon="Icon_Fluffy-1" portrait="false"/>
+    <credit name="JustCarson" desc="Story Writer/Concept Artist" icon="funny_fnf_icon_lol" portrait="false"/>
+    <credit name="TheOnlyVolume" desc="Musician (content coming soon), VA (content coming soon), story writer (content coming soon)" icon="theonlyvolume" portrait="false"/>
+    <credit name="Paradoxshifter" desc="Concept artist, added subtitles to cutscenes" icon="paradox_icon" portrait="false"/>
+    <credit name="Cubethony" desc="Sprite artist (content coming soon), cutscene artist (content coming soon)" icon="image" portrait="false"/>
+    <credit name="Atin" desc="Ost artwork (content coming soon)" icon="ATIN" portrait="false"/>
+    <credit name="MendaxSol" desc="Bg Artist (content coming soon)" icon="feralbeast" portrait="false"/>
+</menu>

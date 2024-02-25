@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/wii/" zoom="0.95" name="dark">
+	<sprite scale="1.24" name="dark" sprite="dark"/>
+	<girlfriend scale="0.01" x="568.5" y="164.25"/>
+	<dad scale="0.62" x="483.5" y="116.25"/>
+	<boyfriend scale="0.62" x="1183.5" y="142.25"/>
+	<combo x="748" y="21.25"/>
+</stage>

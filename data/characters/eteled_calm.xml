@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-230" icon="eteleddop" camx="-45" y="-595" isGF="false" scale="0.59" camy="155" color="#8C8C8C" isPlayer="false" holdTime="6.1" sprite="Eteled_Calm">
+	<anim x="0" loop="false" y="0" fps="12" anim="Eteled_Calm Idle" name="idle"/>
+	<anim x="-52" loop="false" y="-1" fps="12" anim="Eteled_Calm down sing" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="Eteled_Calm up sing" name="singUP"/>
+	<anim x="-70" loop="false" y="1" fps="12" anim="Eteled_Calm right sing" name="singRIGHT"/>
+	<anim x="29" loop="false" y="1" fps="12" anim="Eteled_Calm left sing" name="singLEFT"/>
+</character>

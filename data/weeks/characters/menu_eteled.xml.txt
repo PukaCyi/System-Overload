@@ -1,0 +1,3 @@
+<TextureAtlas imagePath="menu_eteled">
+<SubTexture name="GF Dancing Beat WHITE0000" x="2" y="2" width="699" height="634" pivotX="149.4" pivotY="309.7" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648"/>
+</TextureAtlas>
