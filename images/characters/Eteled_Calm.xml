@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Eteled_Calm.png">
+<SubTexture name="Eteled_Calm Idle0000" x="0" y="1163" width="527" height="1099" frameX="-303" frameY="-716" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm Idle0001" x="2397" y="1078" width="538" height="1070" frameX="-303" frameY="-745" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm Idle0002" x="3187" y="1077" width="527" height="1076" frameX="-309" frameY="-739" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm Idle0003" x="1873" y="0" width="524" height="1104" frameX="-304" frameY="-712" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm right sing0000" x="1307" y="1163" width="883" height="1078" frameX="-195" frameY="-736" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm right sing0001" x="3187" y="0" width="872" height="1077" frameX="-195" frameY="-737" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm right sing0002" x="0" y="2262" width="866" height="1076" frameX="-195" frameY="-738" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm up sing0000" x="0" y="0" width="623" height="1163" frameX="-180" frameY="-654" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm up sing0001" x="623" y="0" width="622" height="1134" frameX="-181" frameY="-682" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm up sing0002" x="1245" y="0" width="628" height="1129" frameX="-180" frameY="-687" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm left sing0000" x="866" y="2262" width="819" height="1075" frameX="-55" frameY="-741" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm left sing0001" x="2397" y="0" width="790" height="1078" frameX="-84" frameY="-738" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm left sing0002" x="527" y="1163" width="780" height="1079" frameX="-94" frameY="-737" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm down sing0000" x="2948" y="2262" width="659" height="914" frameX="-196" frameY="-902" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm down sing0001" x="2313" y="2262" width="635" height="931" frameX="-210" frameY="-885" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_Calm down sing0002" x="1685" y="2262" width="628" height="934" frameX="-215" frameY="-882" frameWidth="1080" frameHeight="1920" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bananaled.png">
+<SubTexture name="Bananaled idle0000" x="880" y="1798" width="901" height="1429" frameX="-110" frameY="-389" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Bananaled idle0001" x="3788" y="0" width="1010" height="1397" frameX="-30" frameY="-421" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Bananaled idle0002" x="3788" y="1397" width="1000" height="1388" frameX="-38" frameY="-430" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Bananaled idle0003" x="0" y="1798" width="880" height="1441" frameX="-120" frameY="-378" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Bananaled down sing0000" x="0" y="3239" width="987" height="1377" frameX="-42" frameY="-442" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Bananaled down sing0001" x="987" y="3239" width="987" height="1377" frameX="-42" frameY="-442" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Bananaled up sing0000" x="2052" y="0" width="868" height="1463" frameX="-141" frameY="-356" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Bananaled up sing0001" x="2920" y="0" width="868" height="1463" frameX="-141" frameY="-356" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Bananaled left sing0000" x="1781" y="1798" width="792" height="1413" frameX="-81" frameY="-405" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Bananaled left sing0001" x="2573" y="1798" width="792" height="1413" frameX="-81" frameY="-405" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Bananaled right sing0000" x="0" y="0" width="1026" height="1798" frameX="-172" frameY="-18" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Bananaled right sing0001" x="1026" y="0" width="1026" height="1798" frameX="-172" frameY="-18" frameWidth="1200" frameHeight="1920" />
+</TextureAtlas>

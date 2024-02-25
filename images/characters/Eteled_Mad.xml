@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Eteled_Mad.png">
+<SubTexture name="Eteled_crazy Idle0000" x="5591" y="3138" width="914" height="1028" frameX="-158" frameY="-801" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy Idle0001" x="917" y="4931" width="928" height="994" frameX="-152" frameY="-835" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy Idle0002" x="0" y="4931" width="917" height="1002" frameX="-160" frameY="-827" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy Idle0003" x="5591" y="2104" width="891" height="1034" frameX="-174" frameY="-795" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy up sing0000" x="1931" y="0" width="841" height="1164" frameX="-15" frameY="-671" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy up sing0001" x="0" y="1604" width="841" height="1161" frameX="-28" frameY="-673" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy up sing0002" x="1097" y="0" width="834" height="1165" frameX="-29" frameY="-669" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy right sing0000" x="2902" y="2765" width="884" height="1075" frameX="-91" frameY="-755" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy right sing0001" x="2793" y="4931" width="945" height="983" frameX="-4" frameY="-847" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy right sing0002" x="1845" y="4931" width="948" height="987" frameX="-8" frameY="-843" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy left sing0000" x="4698" y="0" width="893" height="1070" frameX="-90" frameY="-767" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy left sing0001" x="841" y="1604" width="893" height="1158" frameX="-90" frameY="-679" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy left sing0002" x="1734" y="1604" width="990" height="1151" frameX="-90" frameY="-686" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy down sing0000" x="5636" y="4931" width="969" height="854" frameX="-111" frameY="-968" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy down sing0001" x="3738" y="4931" width="947" height="885" frameX="-133" frameY="-937" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy down sing0002" x="4685" y="4931" width="951" height="879" frameX="-127" frameY="-943" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Eteled_crazy down scream0000" x="4424" y="3869" width="1052" height="1026" frameX="-146" frameY="-793" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy down scream0001" x="990" y="2765" width="1011" height="1081" frameX="-146" frameY="-738" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy down scream0002" x="2325" y="3869" width="1053" height="1057" frameX="-147" frameY="-762" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy down scream0003" x="3378" y="3869" width="1046" height="1056" frameX="-147" frameY="-763" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy up scream0000" x="0" y="0" width="1097" height="1604" frameX="-34" frameY="-234" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy up scream0001" x="3678" y="0" width="1020" height="1113" frameX="-149" frameY="-704" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy up scream0002" x="0" y="2765" width="990" height="1104" frameX="-150" frameY="-713" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy up scream0003" x="3678" y="1113" width="988" height="1108" frameX="-154" frameY="-709" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy left scream0000" x="0" y="3869" width="1139" height="1062" frameX="-14" frameY="-759" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy left scream0001" x="1139" y="3869" width="1186" height="1058" frameX="-14" frameY="-763" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy left scream0002" x="5591" y="1056" width="1173" height="1048" frameX="-14" frameY="-773" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy left scream0003" x="5591" y="0" width="1180" height="1056" frameX="-14" frameY="-765" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy right scream0000" x="2772" y="0" width="906" height="1146" frameX="-216" frameY="-674" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy right scream0001" x="3786" y="2765" width="888" height="1072" frameX="-209" frameY="-748" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy right scream0002" x="2772" y="1146" width="906" height="1085" frameX="-208" frameY="-735" frameWidth="1200" frameHeight="1920" />
+<SubTexture name="Eteled_crazy right scream0003" x="2001" y="2765" width="901" height="1078" frameX="-206" frameY="-742" frameWidth="1200" frameHeight="1920" />
+</TextureAtlas>

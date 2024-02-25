@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Austin_Normal.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="austin down normal0000" x="0" y="0" width="1110" height="1917" frameX="0" frameY="-1" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0001" x="0" y="0" width="1110" height="1917" frameX="0" frameY="-1" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0002" x="1130" y="0" width="1110" height="1917" frameX="0" frameY="-1" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0003" x="1130" y="0" width="1110" height="1917" frameX="0" frameY="-1" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0004" x="2260" y="0" width="1110" height="1917" frameX="0" frameY="-1" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0005" x="2260" y="0" width="1110" height="1917" frameX="0" frameY="-1" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0006" x="3390" y="0" width="1111" height="1917" frameX="-4" frameY="0" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0007" x="3390" y="0" width="1111" height="1917" frameX="-4" frameY="0" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0008" x="3390" y="0" width="1111" height="1917" frameX="-4" frameY="0" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0009" x="3390" y="0" width="1111" height="1917" frameX="-4" frameY="0" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0010" x="3390" y="0" width="1111" height="1917" frameX="-4" frameY="0" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0011" x="3390" y="0" width="1111" height="1917" frameX="-4" frameY="0" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0012" x="3390" y="0" width="1111" height="1917" frameX="-4" frameY="0" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin down normal0013" x="3390" y="0" width="1111" height="1917" frameX="-4" frameY="0" frameWidth="1115" frameHeight="1918"/>
+	<SubTexture name="austin idle normal0000" x="4521" y="0" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0001" x="4521" y="0" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0002" x="5652" y="0" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0003" x="5652" y="0" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0004" x="6783" y="0" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0005" x="6783" y="0" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0006" x="0" y="1937" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0007" x="0" y="1937" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0008" x="0" y="1937" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0009" x="0" y="1937" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0010" x="0" y="1937" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0011" x="0" y="1937" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0012" x="0" y="1937" width="1111" height="1916"/>
+	<SubTexture name="austin idle normal0013" x="0" y="1937" width="1111" height="1916"/>
+	<SubTexture name="austin left normal0000" x="1131" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0001" x="1131" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0002" x="2261" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0003" x="2261" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0004" x="3391" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0005" x="3391" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0006" x="3391" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0007" x="3391" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0008" x="3391" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0009" x="3391" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0010" x="3391" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0011" x="3391" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0012" x="3391" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin left normal0013" x="3391" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0000" x="4521" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0001" x="4521" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0002" x="5651" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0003" x="5651" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0004" x="6781" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0005" x="6781" y="1937" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0006" x="0" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0007" x="0" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0008" x="0" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0009" x="0" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0010" x="0" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0011" x="0" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0012" x="0" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin right normal0013" x="0" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0000" x="1130" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0001" x="1130" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0002" x="2260" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0003" x="2260" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0004" x="3390" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0005" x="3390" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0006" x="4520" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0007" x="4520" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0008" x="4520" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0009" x="4520" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0010" x="4520" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0011" x="4520" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0012" x="4520" y="3873" width="1110" height="1916"/>
+	<SubTexture name="austin up normal0013" x="4520" y="3873" width="1110" height="1916"/>
+</TextureAtlas>
