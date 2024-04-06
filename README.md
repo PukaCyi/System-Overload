@@ -1,6 +1,8 @@
-# Vs. Eteled: System Overload | on Codename Engine
+# Status
+This project has been archived as of March 2024 (though I never officially archived it until just now, April 5th, 2024.) I'm no longer interested at this time in System Overload, or Wii Deleted You in its entirety and thus, this project is abandoned. If you happen to come across this project, and notice bugs, please fix them yourself.
 
-This is a personal project that I'm working on in my free time, or literally whenever I want to. The thing will fully be released when I feel it's closely 1:1 with the original S.O. or if I eventually give up.
+# Vs. Eteled: System Overload | on Codename Engine
+A personal project I was working on back then.
 
 ## Warning
 This is **NOT** a replacement for the original [System Overload](https://gamebanana.com/mods/477139) mod but rather an alternative option for people to play on low-end PCs.
@@ -26,7 +28,7 @@ Great! You're still dedicated to follow along - don't worry, you'll live, for th
   - Visit the Codename Engine repo and head to the [Actions](https://github.com/FNF-CNE-Devs/CodenameEngine/actions) page.
 
 * Choose your build version:
-  - Select your preferred platform (e.g., Windows, Linux, Mac). 
+  - Select your preferred platform (e.g., Windows, Linux, Mac).
 
 * Find the correct version:
   - Look for the green check mark next to the first three boxes. Check the version text to make sure you're looking at the right build
@@ -34,6 +36,9 @@ Great! You're still dedicated to follow along - don't worry, you'll live, for th
 * Download the build:
   - Scroll to "Artifacts" and select "Codename Engine" or "Update-(Version)" if you're updating. Download the zip file.
   - If you're updating your Codename Engine build, please note that things may break if your build is old. You can update the engine just by unzipping the Update-(Version) file and replacing the old build.
+
+## Notice:
+  - If you're on the official Codename Engine Discord server (recommend joining it if you're interested in the engine), you can also skip the hard stuff and get straight to downloading the engine [here](https://discordapp.com/channels/860561967383445535/1029120938559684668/1213555930151784518)
 
 * Set Up:
   - Unzip the downloaded file and navigate to the "mods" folder. Create a new folder called "System Overload" and paste the entire mod stuff inside.
